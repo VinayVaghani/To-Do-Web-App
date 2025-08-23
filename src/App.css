@@ -1,0 +1,23 @@
+body {
+  background: #f7f7fb;
+}
+
+.card {
+  border: 0;
+  border-radius: 1rem !important;
+}
+
+.list-group-item {
+  border: 0;
+  border-bottom: 1px solid #eee;
+}
+
+.strike {
+  text-decoration: line-through;
+  opacity: 0.65;
+}
+
+.footer-note {
+  font-size: 0.875rem;
+  opacity: 0.7;
+}
