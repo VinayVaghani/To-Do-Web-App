@@ -27,13 +27,13 @@ You can add, complete, undo, and delete tasks with a clean, responsive UI.
 ## 📂 Project Structure
 
 to-do-web-app/
-│──> public/
-│ └──> index.html
-│──> src/
-│ ├──> components/
-│ │ └──> TodoApp.js
-│ ├──> App.js
-│ ├──> App.css
+│── public/
+│ └── index.html
+│── src/
+│ ├── components/
+│ │ └── TodoApp.js
+│ ├── App.js
+│ ├── App.css
 │ ├── index.js
-│──> package.json
-│──> README.md
+│── package.json
+│── README.md
