@@ -25,7 +25,7 @@ You can add, complete, undo, and delete tasks with a clean, responsive UI.
 ---
 
 ## 📂 Project Structure
-
+```
 to-do-web-app/
 │── public/
 │ └── index.html
@@ -37,3 +37,4 @@ to-do-web-app/
 │ ├── index.js
 │── package.json
 │── README.md
+```
